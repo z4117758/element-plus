@@ -56,6 +56,7 @@
       v-model="value4"
       multiple
       collapse-tags
+      filterable
       collapse-tags-tooltip
       :max-collapse-tags="3"
       placeholder="Select"
